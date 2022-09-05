@@ -1,2 +1,2 @@
 # linear_stepper_motor_controller
-直线步进电机驱动控制器，电机为德国Nanotec的LGA421S14-B-TJBA-019，选择STM32F103单片机作为控制器上位机，控制量分别为正反转、步进距离以及速度.
+Linear stepping motor controller, the motor is Nanotec (German) LGA421S14-B-TJBA-019. STM32F103 MCU is selected as the host computer, and the control quantity is respectively positive inversion, step distance and speed.
